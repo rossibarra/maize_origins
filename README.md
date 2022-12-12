@@ -6,6 +6,6 @@
 
 **simulate_pheontypes.Rmd**: Code to simulate phenotypes given empirical kinship matrices
 
-**simulated_props.txt.csv**: LDAK results for data simulated with `simulate_pheontypes.Rmd`
+**simulated_props.txt.csv**: LDAK results for data simulated with `simulate_phenotypes.Rmd`
 
 
